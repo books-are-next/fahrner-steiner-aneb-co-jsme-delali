@@ -1,0 +1,802 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Steiner aneb Co jsme dělali",
+  "author": "Martin Fahrner",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "fahrner-steiner-aneb-co-jsme-delali-dba1b83",
+  "revision": "dba1b83",
+  "readingOrder": [
+    "promo.html",
+    "steiner_aneb_co_jsme_delali_005.html",
+    "steiner_aneb_co_jsme_delali_006.html",
+    "steiner_aneb_co_jsme_delali_007.html",
+    "steiner_aneb_co_jsme_delali_008.html",
+    "steiner_aneb_co_jsme_delali_009.html",
+    "steiner_aneb_co_jsme_delali_010.html",
+    "steiner_aneb_co_jsme_delali_011.html",
+    "steiner_aneb_co_jsme_delali_012.html",
+    "steiner_aneb_co_jsme_delali_013.html",
+    "steiner_aneb_co_jsme_delali_014.html",
+    "steiner_aneb_co_jsme_delali_015.html",
+    "steiner_aneb_co_jsme_delali_016.html",
+    "steiner_aneb_co_jsme_delali_017.html",
+    "steiner_aneb_co_jsme_delali_018.html",
+    "steiner_aneb_co_jsme_delali_019.html",
+    "steiner_aneb_co_jsme_delali_020.html",
+    "steiner_aneb_co_jsme_delali_021.html",
+    "steiner_aneb_co_jsme_delali_022.html",
+    "steiner_aneb_co_jsme_delali_023.html",
+    "steiner_aneb_co_jsme_delali_024.html",
+    "steiner_aneb_co_jsme_delali_025.html",
+    "steiner_aneb_co_jsme_delali_026.html",
+    "steiner_aneb_co_jsme_delali_027.html",
+    "steiner_aneb_co_jsme_delali_028.html",
+    "steiner_aneb_co_jsme_delali_029.html",
+    "steiner_aneb_co_jsme_delali_030.html",
+    "steiner_aneb_co_jsme_delali_031.html",
+    "steiner_aneb_co_jsme_delali_032.html",
+    "steiner_aneb_co_jsme_delali_033.html",
+    "steiner_aneb_co_jsme_delali_034.html",
+    "steiner_aneb_co_jsme_delali_035.html",
+    "steiner_aneb_co_jsme_delali_036.html",
+    "steiner_aneb_co_jsme_delali_037.html",
+    "steiner_aneb_co_jsme_delali_038.html",
+    "steiner_aneb_co_jsme_delali_039.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Sat Sep 24 2022 10:20:38 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664014838234
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "steiner_aneb_co_jsme_delali_005.html",
+      "toc": []
+    },
+    {
+      "title": "Nálet na Drážďany",
+      "file": "steiner_aneb_co_jsme_delali_005.html",
+      "words": 953,
+      "chars": 5778,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "steiner_aneb_co_jsme_delali_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nálet na Drážďany",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Němá barikáda",
+      "file": "steiner_aneb_co_jsme_delali_006.html",
+      "words": 1999,
+      "chars": 11388,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 2,
+      "prev": "steiner_aneb_co_jsme_delali_005.html",
+      "next": "steiner_aneb_co_jsme_delali_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Němá barikáda",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Morálka mužstva",
+      "file": "steiner_aneb_co_jsme_delali_007.html",
+      "words": 404,
+      "chars": 2378,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 3,
+      "prev": "steiner_aneb_co_jsme_delali_006.html",
+      "next": "steiner_aneb_co_jsme_delali_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Morálka mužstva",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Signály v mlze",
+      "file": "steiner_aneb_co_jsme_delali_008.html",
+      "words": 1744,
+      "chars": 10147,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 4,
+      "prev": "steiner_aneb_co_jsme_delali_007.html",
+      "next": "steiner_aneb_co_jsme_delali_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Signály v mlze",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vánoce",
+      "file": "steiner_aneb_co_jsme_delali_009.html",
+      "words": 908,
+      "chars": 5342,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 5,
+      "prev": "steiner_aneb_co_jsme_delali_008.html",
+      "next": "steiner_aneb_co_jsme_delali_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vánoce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Svatý Václav",
+      "file": "steiner_aneb_co_jsme_delali_010.html",
+      "words": 1395,
+      "chars": 8017,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 6,
+      "prev": "steiner_aneb_co_jsme_delali_009.html",
+      "next": "steiner_aneb_co_jsme_delali_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Svatý Václav",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pravda",
+      "file": "steiner_aneb_co_jsme_delali_011.html",
+      "words": 1842,
+      "chars": 10332,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 7,
+      "prev": "steiner_aneb_co_jsme_delali_010.html",
+      "next": "steiner_aneb_co_jsme_delali_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pravda",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Běh",
+      "file": "steiner_aneb_co_jsme_delali_012.html",
+      "words": 626,
+      "chars": 3661,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 8,
+      "prev": "steiner_aneb_co_jsme_delali_011.html",
+      "next": "steiner_aneb_co_jsme_delali_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Běh",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Johnnie Walker",
+      "file": "steiner_aneb_co_jsme_delali_013.html",
+      "words": 1200,
+      "chars": 7305,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 9,
+      "prev": "steiner_aneb_co_jsme_delali_012.html",
+      "next": "steiner_aneb_co_jsme_delali_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Johnnie Walker",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dědečkovy koše",
+      "file": "steiner_aneb_co_jsme_delali_014.html",
+      "words": 489,
+      "chars": 2941,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 10,
+      "prev": "steiner_aneb_co_jsme_delali_013.html",
+      "next": "steiner_aneb_co_jsme_delali_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dědečkovy koše",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O půl osmé",
+      "file": "steiner_aneb_co_jsme_delali_015.html",
+      "words": 2482,
+      "chars": 14502,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 11,
+      "prev": "steiner_aneb_co_jsme_delali_014.html",
+      "next": "steiner_aneb_co_jsme_delali_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O půl osmé",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lucie",
+      "file": "steiner_aneb_co_jsme_delali_016.html",
+      "words": 963,
+      "chars": 5379,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 12,
+      "prev": "steiner_aneb_co_jsme_delali_015.html",
+      "next": "steiner_aneb_co_jsme_delali_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lucie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Střemhlavý let",
+      "file": "steiner_aneb_co_jsme_delali_017.html",
+      "words": 1664,
+      "chars": 9478,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 13,
+      "prev": "steiner_aneb_co_jsme_delali_016.html",
+      "next": "steiner_aneb_co_jsme_delali_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Střemhlavý let",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Koťátko",
+      "file": "steiner_aneb_co_jsme_delali_018.html",
+      "words": 1195,
+      "chars": 7047,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 14,
+      "prev": "steiner_aneb_co_jsme_delali_017.html",
+      "next": "steiner_aneb_co_jsme_delali_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Koťátko",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lokomotiva mého otce",
+      "file": "steiner_aneb_co_jsme_delali_019.html",
+      "words": 1847,
+      "chars": 11393,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 15,
+      "prev": "steiner_aneb_co_jsme_delali_018.html",
+      "next": "steiner_aneb_co_jsme_delali_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lokomotiva mého otce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sponka",
+      "file": "steiner_aneb_co_jsme_delali_020.html",
+      "words": 1753,
+      "chars": 9812,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 16,
+      "prev": "steiner_aneb_co_jsme_delali_019.html",
+      "next": "steiner_aneb_co_jsme_delali_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sponka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pivnice Tunel",
+      "file": "steiner_aneb_co_jsme_delali_021.html",
+      "words": 958,
+      "chars": 5520,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 17,
+      "prev": "steiner_aneb_co_jsme_delali_020.html",
+      "next": "steiner_aneb_co_jsme_delali_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pivnice Tunel",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zbabělost",
+      "file": "steiner_aneb_co_jsme_delali_022.html",
+      "words": 1248,
+      "chars": 7321,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 18,
+      "prev": "steiner_aneb_co_jsme_delali_021.html",
+      "next": "steiner_aneb_co_jsme_delali_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zbabělost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tatínkovy čtvrtky",
+      "file": "steiner_aneb_co_jsme_delali_023.html",
+      "words": 1899,
+      "chars": 11283,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 19,
+      "prev": "steiner_aneb_co_jsme_delali_022.html",
+      "next": "steiner_aneb_co_jsme_delali_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tatínkovy čtvrtky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červená karta",
+      "file": "steiner_aneb_co_jsme_delali_024.html",
+      "words": 908,
+      "chars": 5381,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 20,
+      "prev": "steiner_aneb_co_jsme_delali_023.html",
+      "next": "steiner_aneb_co_jsme_delali_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červená karta",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Touha",
+      "file": "steiner_aneb_co_jsme_delali_025.html",
+      "words": 819,
+      "chars": 4919,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 21,
+      "prev": "steiner_aneb_co_jsme_delali_024.html",
+      "next": "steiner_aneb_co_jsme_delali_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Touha",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Iluze",
+      "file": "steiner_aneb_co_jsme_delali_026.html",
+      "words": 1003,
+      "chars": 5727,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 22,
+      "prev": "steiner_aneb_co_jsme_delali_025.html",
+      "next": "steiner_aneb_co_jsme_delali_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Iluze",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dvě minuty na otázky věčné",
+      "file": "steiner_aneb_co_jsme_delali_027.html",
+      "words": 518,
+      "chars": 2964,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 23,
+      "prev": "steiner_aneb_co_jsme_delali_026.html",
+      "next": "steiner_aneb_co_jsme_delali_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dvě minuty na otázky věčné",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Oheň",
+      "file": "steiner_aneb_co_jsme_delali_028.html",
+      "words": 695,
+      "chars": 3814,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 24,
+      "prev": "steiner_aneb_co_jsme_delali_027.html",
+      "next": "steiner_aneb_co_jsme_delali_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Oheň",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Koutky úst",
+      "file": "steiner_aneb_co_jsme_delali_029.html",
+      "words": 1510,
+      "chars": 8723,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 25,
+      "prev": "steiner_aneb_co_jsme_delali_028.html",
+      "next": "steiner_aneb_co_jsme_delali_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Koutky úst",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Opravdový úsměv",
+      "file": "steiner_aneb_co_jsme_delali_030.html",
+      "words": 502,
+      "chars": 2940,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 26,
+      "prev": "steiner_aneb_co_jsme_delali_029.html",
+      "next": "steiner_aneb_co_jsme_delali_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Opravdový úsměv",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Drobná gesta",
+      "file": "steiner_aneb_co_jsme_delali_031.html",
+      "words": 440,
+      "chars": 2457,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 27,
+      "prev": "steiner_aneb_co_jsme_delali_030.html",
+      "next": "steiner_aneb_co_jsme_delali_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Drobná gesta",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapičky jantaru",
+      "file": "steiner_aneb_co_jsme_delali_032.html",
+      "words": 1093,
+      "chars": 6390,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 28,
+      "prev": "steiner_aneb_co_jsme_delali_031.html",
+      "next": "steiner_aneb_co_jsme_delali_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapičky jantaru",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tatínkův křik",
+      "file": "steiner_aneb_co_jsme_delali_033.html",
+      "words": 713,
+      "chars": 4347,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 29,
+      "prev": "steiner_aneb_co_jsme_delali_032.html",
+      "next": "steiner_aneb_co_jsme_delali_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tatínkův křik",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Maminčin sen",
+      "file": "steiner_aneb_co_jsme_delali_034.html",
+      "words": 1277,
+      "chars": 7387,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 30,
+      "prev": "steiner_aneb_co_jsme_delali_033.html",
+      "next": "steiner_aneb_co_jsme_delali_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Maminčin sen",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ruce",
+      "file": "steiner_aneb_co_jsme_delali_035.html",
+      "words": 411,
+      "chars": 2433,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 31,
+      "prev": "steiner_aneb_co_jsme_delali_034.html",
+      "next": "steiner_aneb_co_jsme_delali_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ruce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nebeská lastura",
+      "file": "steiner_aneb_co_jsme_delali_036.html",
+      "words": 906,
+      "chars": 5134,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 32,
+      "prev": "steiner_aneb_co_jsme_delali_035.html",
+      "next": "steiner_aneb_co_jsme_delali_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nebeská lastura",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Větev",
+      "file": "steiner_aneb_co_jsme_delali_037.html",
+      "words": 331,
+      "chars": 1907,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 33,
+      "prev": "steiner_aneb_co_jsme_delali_036.html",
+      "next": "steiner_aneb_co_jsme_delali_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Větev",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vesmírná loď",
+      "file": "steiner_aneb_co_jsme_delali_038.html",
+      "words": 500,
+      "chars": 2918,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 34,
+      "prev": "steiner_aneb_co_jsme_delali_037.html",
+      "next": "steiner_aneb_co_jsme_delali_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vesmírná loď",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Velká naděje",
+      "file": "steiner_aneb_co_jsme_delali_039.html",
+      "words": 1284,
+      "chars": 7300,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 35,
+      "prev": "steiner_aneb_co_jsme_delali_038.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Velká naděje",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 149,
+      "chars": 943,
+      "ideas": 17,
+      "role": "about",
+      "order": null,
+      "prev": "steiner_aneb_co_jsme_delali_039.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 38637,
+      "chars": 224760,
+      "ideas": 733
+    },
+    "chapters": {
+      "words": 38479,
+      "chars": 223765,
+      "ideas": 712
+    }
+  }
+}

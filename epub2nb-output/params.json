@@ -1,11 +1,15 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
       "title": "Steiner aneb Co jsme dělali",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Martin Fahrner",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-07-29T00:00:00.000Z"
+      "modified": "2021-07-29T00:00:00.000Z",
+      "edition": "beletrie",
+      "publisherShort": "mkp",
+      "contentType": "prose"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -20,11 +24,11 @@
       "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
-      "centered": ".*uprostred.*",
       "figure": "MLP.obrazky.*\nmlpobrazky",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*",
       "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
       "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
-      "verse": "MLP.verse.*",
       "remove": "",
       "ignore": ""
     },
@@ -32,50 +36,55 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "steiner_aneb_co_jsme_delali_001.md",
             "xhtml": "steiner_aneb_co_jsme_delali_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_002.md",
             "xhtml": "steiner_aneb_co_jsme_delali_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_003.md",
             "xhtml": "steiner_aneb_co_jsme_delali_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_004.md",
             "xhtml": "steiner_aneb_co_jsme_delali_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_005.md",
@@ -86,7 +95,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Nálet na Drážďany"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_006.md",
@@ -97,7 +108,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Němá barikáda"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_007.md",
@@ -108,7 +121,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Morálka mužstva"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_008.md",
@@ -119,7 +134,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Signály v mlze"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_009.md",
@@ -130,7 +147,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Vánoce"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_010.md",
@@ -141,7 +160,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Svatý Václav"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_011.md",
@@ -152,7 +173,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Pravda"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_012.md",
@@ -163,7 +186,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Běh"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_013.md",
@@ -174,7 +199,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Johnnie Walker"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_014.md",
@@ -185,7 +212,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Dědečkovy koše"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_015.md",
@@ -196,7 +225,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "O půl osmé"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_016.md",
@@ -207,7 +238,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Lucie"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_017.md",
@@ -218,7 +251,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Střemhlavý let"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_018.md",
@@ -229,7 +264,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Koťátko"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_019.md",
@@ -240,7 +277,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Lokomotiva mého otce"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_020.md",
@@ -251,7 +290,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Sponka"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_021.md",
@@ -262,7 +303,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Pivnice Tunel"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_022.md",
@@ -273,7 +316,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Zbabělost"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_023.md",
@@ -284,7 +329,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Tatínkovy čtvrtky"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_024.md",
@@ -295,7 +342,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Červená karta"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_025.md",
@@ -306,7 +355,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Touha"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_026.md",
@@ -317,7 +368,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Iluze"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_027.md",
@@ -328,7 +381,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Dvě minuty na otázky věčné"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_028.md",
@@ -339,7 +394,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Oheň"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_029.md",
@@ -350,7 +407,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Koutky úst"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_030.md",
@@ -361,7 +420,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Opravdový úsměv"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_031.md",
@@ -372,7 +433,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Drobná gesta"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_032.md",
@@ -383,7 +446,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapičky jantaru"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_033.md",
@@ -394,7 +459,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Tatínkův křik"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_034.md",
@@ -405,7 +472,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Maminčin sen"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_035.md",
@@ -416,7 +485,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ruce"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_036.md",
@@ -427,7 +498,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Nebeská lastura"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_037.md",
@@ -438,7 +511,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Větev"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_038.md",
@@ -449,7 +524,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Vesmírná loď"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_039.md",
@@ -460,18 +537,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Velká naděje"
           },
           {
             "filename": "steiner_aneb_co_jsme_delali_040.md",
             "xhtml": "steiner_aneb_co_jsme_delali_040.xhtml",
             "id": 39,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -789,6 +869,6 @@
       "user": "books-are-next",
       "repo": "fahrner-steiner-aneb-co-jsme-delali"
     },
-    "generatedAt": 1663938469775
+    "generatedAt": 1664014765287
   }
 }
