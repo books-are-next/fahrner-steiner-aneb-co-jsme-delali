@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fahrner-steiner-aneb-co-jsme-delali-cd6c748",
-  "revision": "cd6c748",
+  "identifier": "fahrner-steiner-aneb-co-jsme-delali-21d2a65",
+  "revision": "21d2a65",
   "readingOrder": [
     "promo.html",
     "steiner_aneb_co_jsme_delali_005.html",
@@ -50,8 +50,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:51:19 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664923879173
+    "date": "Fri Oct 07 2022 13:48:44 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665150524052
   },
   "documents": [
     {
