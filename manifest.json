@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fahrner-steiner-aneb-co-jsme-delali-21d2a65",
-  "revision": "21d2a65",
+  "identifier": "fahrner-steiner-aneb-co-jsme-delali-5d4bb34",
+  "revision": "5d4bb34",
   "readingOrder": [
     "promo.html",
     "steiner_aneb_co_jsme_delali_005.html",
@@ -50,8 +50,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:48:44 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150524052
+    "date": "Mon Oct 10 2022 15:40:58 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416458680
   },
   "documents": [
     {
@@ -770,7 +770,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 146,
-      "chars": 943,
+      "chars": 944,
       "ideas": 14,
       "role": "about",
       "order": null,
@@ -790,7 +790,7 @@
   "totals": {
     "all": {
       "words": 38634,
-      "chars": 224760,
+      "chars": 224761,
       "ideas": 730
     },
     "chapters": {
