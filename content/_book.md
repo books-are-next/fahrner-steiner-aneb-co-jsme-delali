@@ -13,6 +13,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
   contentType: prose
+  isbn: 978-80-274-2811-3
 readingOrder:
   - promo.html
   - steiner_aneb_co_jsme_delali_005.html
